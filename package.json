@@ -19,5 +19,8 @@
     "prettier",
     "config"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "2"
+  }
 }
