@@ -21,6 +21,6 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "prettier": "2"
+    "prettier": "2 - 3"
   }
 }
