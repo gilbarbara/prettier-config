@@ -1,6 +1,6 @@
 {
   "name": "@gilbarbara/prettier-config",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Shared prettier config",
   "author": "Gil Barbara <gilbarbara@gmail.com>",
   "repository": {
